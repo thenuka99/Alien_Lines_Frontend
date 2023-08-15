@@ -56,3 +56,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm run dev
    ```
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Sass.com]: https://img.shields.io/badge/sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
+[Sass-url]: https://sass-lang.com/
+[TailwindCSS]: https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB
+[tailwind-url]:https://tailwindcss.com/docs/installation
